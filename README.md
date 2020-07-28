@@ -17,8 +17,8 @@ https://imgur.com/uDrl7IZ
 https://www.loom.com/share/5a4c41e7a7b94b1c86c55417a0907409
 
 
+Follow me here and on <a href="https://www.linkedin.com/in/paulo-santoro-44a88318/">LinkedIn</a>
 
 ``` bash
 Thanks for visit!
-Follow me here and on <a href="https://www.linkedin.com/in/paulo-santoro-44a88318/">LinkedIn</a>
 ```
