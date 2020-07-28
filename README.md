@@ -8,8 +8,10 @@ Languages in this project: HTML5 CSS3 JAVASCRIPT
 ```
 ### SIMPLE VIEW ON WEB</br>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="afHCFnO"><a href="//imgur.com/afHCFnO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></P>
-<blockquote class="imgur-embed-pub" lang="en" data-id="uDrl7IZ"><a href="https://imgur.com/uDrl7IZ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/TPxEAUr">
+  <a href="//imgur.com/a/TPxEAUr"></a>
+</blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ### SHORT DEMONSTRATION</br>
