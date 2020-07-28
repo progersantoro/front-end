@@ -1,14 +1,10 @@
-# front-end
+# FRONT-END
 This respository there are projects that I used HTML5, CSS3 and Vanilla Javascript. Also I'll upload projects using Front-end frameworks like Angular, Vue and Reactive.
 
 
+## RESPONSIVE LANDING PAGE DEMONSTRATION
 ``` bash
-RESPONSIVE LANDING PAGE DEMONSTRATION
-```
-
-## Languages in this project
-``` bash
-HTML5 CSS3 JAVASCRIPT
+Languages in this project: HTML5 CSS3 JAVASCRIPT
 ```
 ### SIMPLE VIEW ON WEB</br>
 
