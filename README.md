@@ -4,7 +4,7 @@ This respository there are projects that I used HTML5, CSS3 and Vanilla Javascri
 
 ## RESPONSIVE LANDING PAGE DEMONSTRATION
 ``` bash
-Languages in this project: HTML5 CSS3 JAVASCRIPT
+Languages of this project: HTML5 CSS3 JAVASCRIPT
 ```
 ### SIMPLE VIEW ON WEB</br>
 
@@ -12,8 +12,8 @@ Languages in this project: HTML5 CSS3 JAVASCRIPT
 <img src="https://i.imgur.com/uDrl7IZ.jpg">
 
 
-### SHORT DEMONSTRATION</br>
-Please, click with right buttom in image bellow to watch the video!
+### SHORT VIDEO DEMONSTRATION</br>
+Please, click in image bellow to watch the video!
 
 [![Watch the video](https://i.imgur.com/afHCFnO.jpg)](https://www.loom.com/share/5a4c41e7a7b94b1c86c55417a0907409)
 
