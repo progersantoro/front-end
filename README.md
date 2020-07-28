@@ -13,7 +13,7 @@ Languages in this project: HTML5 CSS3 JAVASCRIPT
 
 
 ### SHORT DEMONSTRATION</br>
-Please, click in image bellow to watch the video!
+Please, click with right buttom in image bellow to watch the video!
 
 [![Watch the video](https://i.imgur.com/afHCFnO.jpg)](https://www.loom.com/share/5a4c41e7a7b94b1c86c55417a0907409)
 
