@@ -8,15 +8,17 @@ Languages in this project: HTML5 CSS3 JAVASCRIPT
 ```
 ### SIMPLE VIEW ON WEB</br>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/TPxEAUr">
-  <a href="//imgur.com/a/TPxEAUr"></a>
-</blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/afHCFnO.jpg"></p>
+<img src="https://i.imgur.com/uDrl7IZ.jpg">
 
 
 ### SHORT DEMONSTRATION</br>
+Please, click in image bellow to watch the video!
 
-https://www.loom.com/share/5a4c41e7a7b94b1c86c55417a0907409
+[![Watch the video](https://i.imgur.com/afHCFnO.jpg)](https://www.loom.com/share/5a4c41e7a7b94b1c86c55417a0907409)
+
+
+
 
 
 Follow me here and on <a href="https://www.linkedin.com/in/paulo-santoro-44a88318/" target="_blank">LinkedIn</a>
