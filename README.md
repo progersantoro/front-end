@@ -8,7 +8,7 @@ Languages in this project: HTML5 CSS3 JAVASCRIPT
 ```
 ### SIMPLE VIEW ON WEB</br>
 
-https://imgur.com/afHCFnO
+https://imgur.com/afHCFnO</P>
 https://imgur.com/uDrl7IZ
 
 
@@ -20,5 +20,5 @@ https://www.loom.com/share/5a4c41e7a7b94b1c86c55417a0907409
 
 ``` bash
 Thanks for visit!
-Follow me here and on LinkedIn
+Follow me here and on <a href="https://www.linkedin.com/in/paulo-santoro-44a88318/">LinkedIn</a>
 ```
